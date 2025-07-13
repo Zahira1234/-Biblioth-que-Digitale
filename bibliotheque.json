@@ -1,0 +1,220 @@
+{
+    "livres": {
+        "1": {
+            "titre": "Le Petit Prince",
+            "auteur": " Antoine de Saint-Exup\u00e9ry",
+            "isbn": "1",
+            "disponible": false,
+            "emprunteur": "33",
+            "date_emprunt": "2025-05-10T22:27:00.624107",
+            "date_retour_prevue": "2025-05-24T22:27:00.624107",
+            "nombre_emprunts": 2
+        },
+        "3": {
+            "titre": "L'\u00c9tranger",
+            "auteur": "Albert Camus",
+            "isbn": "2",
+            "disponible": true,
+            "emprunteur": null,
+            "date_emprunt": null,
+            "date_retour_prevue": null,
+            "nombre_emprunts": 0
+        },
+        "4": {
+            "titre": "Le Seigneur des Anneaux - La Communaut\u00e9 de l'Anne",
+            "auteur": " J.R.R. Tolkien",
+            "isbn": "4",
+            "disponible": false,
+            "emprunteur": "2400658",
+            "date_emprunt": "2025-05-17T15:23:50.128428",
+            "date_retour_prevue": "2025-05-31T15:23:50.128428",
+            "nombre_emprunts": 1
+        },
+        "5": {
+            "titre": "Le Monde d'hier",
+            "auteur": "Stefan Zweig",
+            "isbn": "5",
+            "disponible": true,
+            "emprunteur": null,
+            "date_emprunt": null,
+            "date_retour_prevue": null,
+            "nombre_emprunts": 0
+        },
+        "6": {
+            "titre": "Sur la route",
+            "auteur": "Jack Kerouac",
+            "isbn": "6",
+            "disponible": true,
+            "emprunteur": null,
+            "date_emprunt": null,
+            "date_retour_prevue": null,
+            "nombre_emprunts": 0
+        },
+        "7": {
+            "titre": "Guerre et Paix",
+            "auteur": " L\u00e9on Tolsto\u00ef",
+            "isbn": "7",
+            "disponible": true,
+            "emprunteur": null,
+            "date_emprunt": null,
+            "date_retour_prevue": null,
+            "nombre_emprunts": 0
+        },
+        "8": {
+            "titre": "Le Docteur Jivago",
+            "auteur": "Boris Pasternak",
+            "isbn": "8",
+            "disponible": true,
+            "emprunteur": null,
+            "date_emprunt": null,
+            "date_retour_prevue": null,
+            "nombre_emprunts": 1
+        },
+        "2": {
+            "titre": "La Maison aux esprits",
+            "auteur": "Isabel Allende",
+            "isbn": "2",
+            "disponible": false,
+            "emprunteur": "2400658",
+            "date_emprunt": "2025-05-24T19:49:53.505870",
+            "date_retour_prevue": "2025-05-25T19:49:53.505870",
+            "nombre_emprunts": 1
+        },
+        "9": {
+            "titre": "\u0627\u0644\u0643\u0644\u064a\u0644\u0629 \u0648 \u0627\u0644\u062f\u0645\u0646\u0629",
+            "auteur": "\u0627\u0628\u0646 \u0627\u0644\u0645\u0642\u0641\u0639",
+            "isbn": "9",
+            "disponible": false,
+            "emprunteur": "2400137",
+            "date_emprunt": "2025-05-24T21:48:07.269533",
+            "date_retour_prevue": "2025-05-25T21:48:07.269533",
+            "nombre_emprunts": 1
+        },
+        "10": {
+            "titre": "\u062f\u064a\u0648\u0627\u0646 \u0627\u0644\u0645\u062a\u0646\u0628\u064a",
+            "auteur": "\u0623\u0628\u0648 \u0627\u0644\u0637\u064a\u0628 \u0627\u0644\u0645\u062a\u0646\u0628\u064a",
+            "isbn": "10",
+            "disponible": false,
+            "emprunteur": "33",
+            "date_emprunt": "2025-05-24T21:47:34.133035",
+            "date_retour_prevue": "2025-05-25T21:47:34.133035",
+            "nombre_emprunts": 1
+        },
+        "11": {
+            "titre": "\u0623\u0631\u0636 \u0632\u064a\u0643\u0648\u0644\u0627",
+            "auteur": "\u0623\u062d\u0645\u062f \u062e\u0627\u0644\u062f \u062a\u0648\u0641\u064a\u0642",
+            "isbn": "11",
+            "disponible": true,
+            "emprunteur": null,
+            "date_emprunt": null,
+            "date_retour_prevue": null,
+            "nombre_emprunts": 0
+        },
+        "12": {
+            "titre": "\u0641\u0646 \u0627\u0644\u0644\u0627\u0645\u0628\u0627\u0644\u0627\u0629",
+            "auteur": "\u0645\u0627\u0631\u0643  \u0645\u0627\u0646\u0633\u0648\u0646",
+            "isbn": "12",
+            "disponible": true,
+            "emprunteur": null,
+            "date_emprunt": null,
+            "date_retour_prevue": null,
+            "nombre_emprunts": 0
+        },
+        "13": {
+            "titre": "Cien a\u00f1os de soledad",
+            "auteur": "Gabriel Garc\u00eda M\u00e1rquez",
+            "isbn": "13",
+            "disponible": true,
+            "emprunteur": null,
+            "date_emprunt": null,
+            "date_retour_prevue": null,
+            "nombre_emprunts": 0
+        },
+        "15": {
+            "titre": "\u30ce\u30eb\u30a6\u30a7\u30a4\u306e\u68ee",
+            "auteur": "Haruki Murakami",
+            "isbn": "15",
+            "disponible": false,
+            "emprunteur": "2400438",
+            "date_emprunt": "2025-05-17T15:58:40.801511",
+            "date_retour_prevue": "2025-05-31T15:58:40.801511",
+            "nombre_emprunts": 1
+        },
+        "14": {
+            "titre": "\u0410\u043d\u043d\u0430 \u041a\u0430\u0440\u0435\u043d\u0438\u043d\u0430",
+            "auteur": "L\u00e9on Tolsto\u00ef",
+            "isbn": "14",
+            "disponible": false,
+            "emprunteur": "2400137",
+            "date_emprunt": "2025-05-17T15:59:20.163905",
+            "date_retour_prevue": "2025-05-31T15:59:20.163905",
+            "nombre_emprunts": 1
+        },
+        "16": {
+            "titre": "\u0630\u0627\u0643\u0631\u0629 \u0645\u0644\u0643",
+            "auteur": "\u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u062d\u0633\u0646 \u0627\u0644\u062b\u0627\u0646\u064a",
+            "isbn": "16",
+            "disponible": true,
+            "emprunteur": null,
+            "date_emprunt": null,
+            "date_retour_prevue": null,
+            "nombre_emprunts": 0
+        }
+    },
+    "utilisateurs": {
+        "2400658": {
+            "nom": "IKRAM",
+            "id_utilisateur": "2400658",
+            "livres_empruntes": [
+                "4",
+                "2"
+            ],
+            "historique_emprunts": [
+                "4",
+                "8",
+                "2"
+            ],
+            "penalites": 3.0
+        },
+        "33": {
+            "nom": "ZAHIRA",
+            "id_utilisateur": "33",
+            "livres_empruntes": [
+                "1",
+                "10"
+            ],
+            "historique_emprunts": [
+                "1",
+                "1",
+                "10"
+            ],
+            "penalites": 0.0
+        },
+        "2400438": {
+            "nom": "Manal",
+            "id_utilisateur": "2400438",
+            "livres_empruntes": [
+                "15"
+            ],
+            "historique_emprunts": [
+                "15"
+            ],
+            "penalites": 0.0
+        },
+        "2400137": {
+            "nom": "Nawfal",
+            "id_utilisateur": "2400137",
+            "livres_empruntes": [
+                "14",
+                "9"
+            ],
+            "historique_emprunts": [
+                "14",
+                "9"
+            ],
+            "penalites": 0.0
+        }
+    },
+    "duree_emprunt": 1,
+    "taux_penalite": 0.5
+}
